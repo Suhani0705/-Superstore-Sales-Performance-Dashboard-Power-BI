@@ -1,4 +1,4 @@
-Superstore 360° Insights Dashboard
+## Superstore 360° Insights Dashboard
 
 Ever wondered what drives your store’s success? 
 
