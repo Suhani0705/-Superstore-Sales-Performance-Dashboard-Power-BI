@@ -1,5 +1,8 @@
 Superstore 360° Insights Dashboard
-Ever wondered what drives your store’s success? 💰 Built an interactive Power BI dashboard that reveals where profits rise, discounts hurt, and customers shine. Turning sales data into clear, actionable business stories 📊  #PowerBI #DataAnalytics #SuperstoreDashboard #DataStorytelling #BusinessIntelligence #DataVisualization
+
+Ever wondered what drives your store’s success? 
+
+💰 Built an interactive Power BI dashboard that reveals where profits rise, discounts hurt, and customers shine. Turning sales data into clear, actionable business stories 📊  #PowerBI #DataAnalytics #SuperstoreDashboard #DataStorytelling #BusinessIntelligence #DataVisualization
 Duration: Jul 2025 – Sep 2025
 Tools Used: Power BI, Excel, DAX
 
